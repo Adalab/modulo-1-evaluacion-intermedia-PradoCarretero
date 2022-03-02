@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* MOBILE DESIGN */
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: sticky;
+  top: 0;
+}
+
+.logo {
+  width: 155px;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+}
+
+.nav_item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.main {
+  background-color: aqua;
+  height: 100vh;
+}
+
+.title {
+  text-align: center;
+  position: absolute;
+  top: 50vh;
+}
