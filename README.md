@@ -1,2 +1,8 @@
 # modulo-1-evaluacion-intermedia-PradoCarretero
-modulo-1-evaluacion-intermedia-PradoCarretero created by GitHub Classroom
+
+Este es mi primera **evaluación**, ¡¡espero que salga bien!!
+
+## To do:
+
+*Cómo hago funcionar bien el css de reset.
+*Cuáles son los fallos.
